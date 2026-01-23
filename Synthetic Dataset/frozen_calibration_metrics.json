@@ -1,0 +1,12 @@
+{
+  "baseline": {
+    "rmse_moisture": 2.7088587185414323,
+    "rmse_temperature": 0.31551489691265744
+  },
+  "calibration_only": {
+    "rmse_moisture": 1.6599049077526267,
+    "rmse_temperature": 0.31395198375384403,
+    "probe_disagreement_input": 5.58797131147541,
+    "probe_disagreement_output": 0.05681695399534008
+  }
+}
