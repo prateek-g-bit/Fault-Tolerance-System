@@ -1,0 +1,4 @@
+Option B – Supervised Fault Detection GNN
+Status: FROZEN NEGATIVE CONTROL
+Do NOT retrain, tune, or overwrite.
+Purpose: Demonstrates limits of supervised detection alone.
